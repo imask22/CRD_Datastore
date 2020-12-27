@@ -10,7 +10,7 @@ import java.util.TimerTask;
 
 /*
  * 1) Used hash Map to get Fast Speed
- * 2) Using Serializable to Use More Space as it occupies low Memory
+ * 2) Using Serializable to Use less Space as it occupies low Memory
  * 3) O(1) complexity (Most of the Times) for Insert and delete and find operations 
  * 4) Used Synchronized for every Method Such that multiple threads can be used without any inconsistency
  * */
