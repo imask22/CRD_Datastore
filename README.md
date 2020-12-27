@@ -2,14 +2,14 @@
 
 
 
-Features of Datastore:-
+# Features of Datastore:-
 Key - Value Pair DataStore : Used hashMap to implelment this... Best Datastructure for these types of usecases
+
 Thread-Safe
+
 Take Less Memory
+
 Support any os with working Java Compiler
-
-
-
 
 # This datastore supports the following operations :-
 
